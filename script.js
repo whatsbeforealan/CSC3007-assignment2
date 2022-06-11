@@ -1,4 +1,3 @@
-// api render
 var data = {
     resource_id: '83c21090-bd19-4b54-ab6b-d999c251edcf', 
 };
